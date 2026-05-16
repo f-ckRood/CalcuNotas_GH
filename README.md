@@ -1,9 +1,10 @@
+# ENG. SOFTWARE - T03N
 Alisson Oliveira
-ENG. SOFTWARE - T03N
 
-Entregua das atividades da Aula9/Aula10, Met. Ageis.
+# Entregua das atividades da Aula9/Aula10, Met. Ageis.
 Trabalho Git/GitHub e Calculadora Media/TDD.
 
+# Codes
 - git --version
 - gh --version
 - code --version
@@ -14,3 +15,10 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 
 - git init -b main
 - git status
+- git add
+- git commit -m
+- gh repo create CalcuNotas_GH --public --source=. --remote=origin --push
+
+- git remote -v
+- gh repo view --web
+
