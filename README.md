@@ -29,4 +29,14 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 - git pull
 
 ### upgrade_readme
+// overwrite or compare?
+// merge, branchs, switch?
 
+- git switch
+- git swith -c
+- git branch
+- git merge
+- git push
+- git pull
+
+- git log

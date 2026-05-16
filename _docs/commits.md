@@ -5,3 +5,6 @@
 3. Estrutura Init.
 4. Att README.
 5. Add GH .gitignore.
+
+6. Upgrade README // Create branch -> Switch -> Att README -> Add & Commit & Push -> Switch -> Merge -> Push.
+7. Att README & Docs. Commits.
