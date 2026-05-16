@@ -27,3 +27,6 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 
 - gh repo clone
 - git pull
+
+### upgrade_readme
+
