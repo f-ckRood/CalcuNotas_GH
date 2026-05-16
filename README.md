@@ -50,3 +50,4 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 - pytest --version
 
 - pytest -v
+- pytest --cov=calcu -v
