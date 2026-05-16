@@ -15,3 +15,4 @@
 9. feat: imp calcu_media.
 10. feat: situacao.
 11. refactor.
+12. feat: Add GitHub Actions & Req.
