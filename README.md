@@ -49,3 +49,4 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 - pip3 install pytest-cov
 - pytest --version
 
+- pytest -v

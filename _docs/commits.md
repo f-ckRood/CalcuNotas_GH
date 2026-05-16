@@ -12,3 +12,4 @@
 # Init Setup - CalcuNotas
 
 8. chore: Init Setup.
+9. feat: imp calcu_media.
