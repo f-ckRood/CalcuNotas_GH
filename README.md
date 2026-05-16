@@ -4,6 +4,10 @@ Alisson Oliveira
 # Entregua das atividades da Aula9/Aula10, Met. Ageis.
 Trabalho Git/GitHub e Calculadora Media/TDD.
 
+- echo
+- mkdir
+- cd
+
 - git --version
 - gh --version
 - code --version
@@ -21,6 +25,5 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 - git remote -v
 - gh repo view --web
 
-- echo
-- mkdir
-
+- gh repo clone
+- git pull

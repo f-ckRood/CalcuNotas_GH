@@ -1,4 +1,6 @@
 
 
-1. Enviado os arquivos raiz e database.
-2. Estrutura Init.
+1. Init Archives/Files.
+2. Att README.
+3. Estrutura Init.
+4. Att README.
