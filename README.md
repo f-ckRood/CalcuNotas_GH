@@ -40,3 +40,12 @@ Trabalho Git/GitHub e Calculadora Media/TDD.
 - git pull
 
 - git log
+
+# Init Setup - CalcuNotas
+
+- python3 -m venv .venv
+- source .venv/bin/activate
+- pip3 install pytest
+- pip3 install pytest-cov
+- pytest --version
+

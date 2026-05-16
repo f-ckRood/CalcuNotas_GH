@@ -8,3 +8,7 @@
 
 6. Upgrade README // Create branch -> Switch -> Att README -> Add & Commit & Push -> Switch -> Merge -> Push.
 7. Att README & Docs. Commits.
+
+# Init Setup - CalcuNotas
+
+8. chore: Init Setup.
