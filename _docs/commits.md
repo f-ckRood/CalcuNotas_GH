@@ -16,3 +16,4 @@
 10. feat: situacao.
 11. refactor.
 12. feat: Add GitHub Actions & Req.
+13. chore: Att README & .github.

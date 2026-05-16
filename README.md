@@ -1,7 +1,7 @@
 # ENG. SOFTWARE - T03N
 Alisson Oliveira
 
-# Entregua das atividades da Aula9/Aula10, Met. Ageis.
+# Entrega das atividades da Aula9/Aula10, Met. Ageis.
 Trabalho Git/GitHub e Calculadora Media/TDD.
 
 - echo

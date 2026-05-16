@@ -16,7 +16,7 @@ jobs:
                 python-version: "3.12"
             
             - name: Instalar dependencias
-              run: pip install -r requirements.txt
+              run: pip3 install -r req.txt
 
             - name: Rodar testes
               run: pytest -v
