@@ -13,3 +13,4 @@
 
 8. chore: Init Setup.
 9. feat: imp calcu_media.
+10. feat: situacao.
